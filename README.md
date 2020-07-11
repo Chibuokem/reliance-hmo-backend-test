@@ -28,6 +28,9 @@ https://documenter.getpostman.com/view/4695863/T17M86VL
 ## Live test base url can be found at
 https://reliance-hmo-test.chibuokemibezim.dev/
 
+## Breakdown process plan
+https://paper.dropbox.com/doc/Reliance-hmo-test-plan-PVSjmMbiK3C8MYYCIdyrP
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
