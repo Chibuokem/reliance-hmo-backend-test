@@ -26,8 +26,7 @@ Run php artisan db:seed, and the data needed to run the application will be put 
 https://documenter.getpostman.com/view/4695863/T17M86VL
 
 ## Live test base url can be found at
-
-https://chibuokemibezim.dev/reliance-hmo-test
+https://reliance-hmo-test.chibuokemibezim.dev/
 
 ## License
 
