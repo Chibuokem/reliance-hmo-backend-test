@@ -18,6 +18,8 @@ class Game_play_records extends Model
      */
     public function makeGamePlay()
     {
+        //create 3,835 days of gaming by switching the variable 
+
         $player = $this->getPlayer(1);
         //$player_added = Carbon::createFromDate($player->date_joined);
         $game = $this->getGame($player->date_joined);

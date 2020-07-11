@@ -17,10 +17,10 @@ class DatabaseSeeder extends Seeder
     {
         // $this->call(UserSeeder::class);
         //create players data
-        //factory(App\Player::class, 10000)->create();
-        //$this->createGames();
+        factory(App\Player::class, 10000)->create();
+        $this->createGames();
         $this->createGamePlayRecords();
-        //$this->createPlayersGameInfo();
+        $this->createPlayersGameInfo();
     }
 
     /**
